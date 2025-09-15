@@ -1,4 +1,4 @@
-##Hi there 👋 I'm Rupam Mahato
+#Hi there 👋 I'm Rupam Mahato
 
 - 🔭 I’m currently working at Cognizant
 - 🌱 Inclined towards Generative AI

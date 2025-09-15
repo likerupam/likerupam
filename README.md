@@ -1,6 +1,7 @@
-##                                                         Hi there 👋 I'm Rupam Mahato
+########################################Hi there 👋 I'm Rupam Mahato
 
 - 🔭 I’m currently working at Cognizant
+- 🌱 Inclined towards Generative AI
 - 👯 Personal website XXXXX
 - 👨‍💻 All of my projects are available at https://github.com/XXXXXX
 - 📫 How to reach me rupam.mahato2697@gmail.com

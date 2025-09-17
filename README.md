@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at Cognizant
 - 🌱 Inclined towards Generative AI
 - 👯 Personal website XXXXX
-- 👨‍💻 All of my projects are available at https://github.com/XXXXXX
+- 👨‍💻 All of my projects are available at https://github.com/likerupam
 - 📫 How to reach me rupam.mahato2697@gmail.com
 
 Connect with me:

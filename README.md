@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Rupam
 
-- 🔭 I’m currently working at Cognizant
-- 🌱 Inclined towards Generative AI
+- 🔭 Currently working at Cognizant
+- 🌱 Inclined towards Machine Learning
 - 👯 Personal website XXXXX
 - 👨‍💻 All of my projects are available at https://github.com/likerupam
 - 📫 How to reach me rupam.mahato2697@gmail.com

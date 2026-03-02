@@ -1,10 +1,9 @@
-# Hi there 👋 I'm Rupam
+# Namaste 🙏 I'm Rupam
 
 - 🔭 Currently working at Cognizant
 - 🌱 Inclined towards Machine Learning
-- 👯 Personal website XXXXX
 - 👨‍💻 All of my projects are available at https://github.com/likerupam
-- 📫 How to reach me rupam.mahato2697@gmail.com
+- 📫 Contact me at +91 8984957987
 
 Connect with me:
 

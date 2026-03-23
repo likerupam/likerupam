@@ -1,7 +1,7 @@
 # Namaste 🙏 I'm Rupam
 
 - 🔭 Currently working at Cognizant
-- 🌱 Inclined towards Machine Learning
+- 🌱 Inclined towards AI / Machine Learning
 - 👨‍💻 All of my projects are available at https://github.com/likerupam
 - 📫 Contact me at +91 8984957987
 

@@ -1,4 +1,4 @@
-# Hello I'm Rupam 
+# Hello, I'm Rupam 
 
 - 🔭 Currently working at Cognizant
 - 🌱 Inclined towards AI / Machine Learning
